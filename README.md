@@ -1,4 +1,4 @@
-6# 💫 About Me:
+# 💫 About Me:
 Hello, my name is Kian Bagheri Asl. I am 22 years old and currently studying Network Engineering at the National University of Skills in Iran. I am fully proficient in English and German, and I have experience programming in C++, Python, and C. I also have strong academic writing skills in my field. My long-term goal is to pursue a career in Artificial Intelligence Engineering.
 
 
